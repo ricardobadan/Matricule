@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursos">
+        <item>@string/jogosdigitais</item>
+        <item>@string/sistemasinfo</item>
+        <item>@string/cienciascomp</item>
+        <item>@string/bigdata</item>
+
+    </string-array>
+</resources>

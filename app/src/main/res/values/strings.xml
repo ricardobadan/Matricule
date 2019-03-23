@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Matricule</string>
+
+    <string name="jogosdigitais">Jogos Digitais</string>
+    <string name="sistemasinfo">Sistemas de informação</string>
+    <string name="cienciascomp">Ciencias da Computacao</string>
+    <string name="bigdata">Big Data</string>
+
+</resources>
